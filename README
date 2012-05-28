@@ -1,0 +1,6 @@
+Easy install Bigbluebutton
+
+1. downlaod https://github.com/yayat/conference.git
+2. cd /conference
+3. ./conference.sh
+4. DONE
